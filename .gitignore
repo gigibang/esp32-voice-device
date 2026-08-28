@@ -1,0 +1,14 @@
+# Flash dumps and packet captures are credential-bearing — the NVS partition of a
+# stock device holds Wi-Fi and broker credentials in cleartext, and a capture of a
+# home LAN carries public IP, DNS history and device MACs. tools/*.sh write into the
+# working tree by default; nothing produced by them belongs in this repository.
+vendor_firmware/
+captures/
+*.bin
+*.pcap
+*.pcapng
+report.txt
+
+.DS_Store
+*.swp
+*~
