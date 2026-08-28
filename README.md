@@ -1,5 +1,7 @@
 # ESP32-S3 Voice Device — research notes and protocol work
 
+By **Xiaoxing Mo** ([@gigibang](https://github.com/gigibang))
+
 Engineering notes from building a self-hosted AI voice device on the ESP32-S3: hardware selection,
 stock-firmware reverse engineering, the wire protocol, and the backend architecture that replaces the
 vendor cloud.
