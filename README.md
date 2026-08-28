@@ -49,9 +49,9 @@ conclusions are:
 
 ---
 
-## Project Highlights for SAEF Application
+## Engineering highlights
 
-Concrete embedded / IoT work demonstrated by the material in this repository:
+The embedded and IoT work behind this material, in short:
 
 **Embedded systems and hardware bring-up.** Component-level selection across a dozen candidate boards,
 reasoning about audio codecs (ES8311), mic-array ADCs that feed echo cancellation (ES7210), Class-D amplifiers
